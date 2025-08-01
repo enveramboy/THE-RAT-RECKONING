@@ -7,4 +7,4 @@ Third person blaster game! Fight against evil machines as a rat piloting a mech,
 
 
 ## Video
-[[https://youtu.be/wzixepNeTOg](https://youtu.be/B-0YS-rEQ70)](https://youtu.be/AHB752pdmOU)
+(https://youtu.be/B-0YS-rEQ70)](https://youtu.be/AHB752pdmOU)
